@@ -1,3 +1,8 @@
+
+![Stopwatch](https://github.com/user-attachments/assets/9d4d3c8c-8b39-413b-9da5-fbcd8f21ac4b)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
